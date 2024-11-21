@@ -1,4 +1,1 @@
-# Gubifortnite
-ist das beschte
-
-chicken fortnite
+# Git übung
